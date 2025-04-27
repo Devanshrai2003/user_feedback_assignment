@@ -1,0 +1,14 @@
+{
+  "name": "user_feedback_assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cd client/feedback_form && npm run dev",
+    "start": "cd server && npm run start"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
